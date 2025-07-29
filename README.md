@@ -1,6 +1,6 @@
 # proje-referans
 
 ## İşe yarayabilecek referanslar:
-günlük
+günlük/
 kuş tahmin etme(serçeler/güvercinler)
 
